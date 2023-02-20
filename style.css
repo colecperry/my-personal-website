@@ -1,3 +1,13 @@
 body {
-    background: blue;
+    background: purple;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif
   }
+
+
+body.h1 {
+    text-align: center;
+}
+
+
+
+
