@@ -1,13 +1,18 @@
 body {
-    background: purple;
-    font-family: "Times New Roman", 'Times New Roman', Times, serif
+    background: fffdd0;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
+    width: 800px;
+    
   }
 
 
-body.h1 {
+#CenterPlease {
     text-align: center;
 }
 
+#CenterPlease2 {
+    text-align: center;
+}
 
 
 
